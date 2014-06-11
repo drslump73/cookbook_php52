@@ -1,0 +1,1 @@
+# Cookbook for PHP5.2
